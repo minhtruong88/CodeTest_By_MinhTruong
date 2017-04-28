@@ -1,0 +1,11 @@
+C:\projects\CodeTest\bin\Debug\CodeTest.exe.config
+C:\projects\CodeTest\bin\Debug\CodeTest.exe
+C:\projects\CodeTest\bin\Debug\CodeTest.pdb
+C:\projects\CodeTest\obj\Debug\CodeTest.exe
+C:\projects\CodeTest\obj\Debug\CodeTest.pdb
+C:\projects\CodeTest_By_MinhTruong\obj\Debug\CodeTest.exe
+C:\projects\CodeTest_By_MinhTruong\obj\Debug\CodeTest.pdb
+C:\projects\CodeTest_By_MinhTruong\obj\Debug\CodeTest_Result_MinhTruong.csprojResolveAssemblyReference.cache
+C:\projects\CodeTest_By_MinhTruong\bin\CodeTest.exe.config
+C:\projects\CodeTest_By_MinhTruong\bin\CodeTest.exe
+C:\projects\CodeTest_By_MinhTruong\bin\CodeTest.pdb

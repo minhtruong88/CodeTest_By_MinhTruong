@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CodeTest_MinhTruong.JsonTag_Test">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAAAAAAQQgAAgBAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>JsonTag_Test.cs</FileName>
+      <NewMemberFileName>jsonTag_Test.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CodeTest_MinhTruong.Util">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Util.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeTest_MinhTruong.Recipients">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Recipients.cs</FileName>
+      <NewMemberFileName>recipients.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeTest_MinhTruong.Factory_CodeTest">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory_CodeTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeTest_MinhTruong.Person">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAgA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CodeTest_MinhTruong.IJsonTag">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IJsonTag.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
